@@ -16,5 +16,5 @@ def execute_nested_base64(encoded_str):
             print(f"end: {e}")
             break
 
-base64_string = b'BASE^$_HERE'
+base64_string = b'BASE64_HERE'
 execute_nested_base64(base64_string)
